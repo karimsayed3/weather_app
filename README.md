@@ -56,7 +56,7 @@ Weather Wizard is your comprehensive weather companion, designed to provide you 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/weather_wizard.git
+   git clone https://github.com/karimsayed3/weather_app.git
    cd weather_wizard
    
 2. Clone the repository:
