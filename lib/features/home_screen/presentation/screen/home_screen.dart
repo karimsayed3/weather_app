@@ -11,7 +11,7 @@ import '../widgets/card_widget.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
-
+  static String routeName = "/weather";
   @override
   State<HomeScreen> createState() => _HomeScreenState();
 }
